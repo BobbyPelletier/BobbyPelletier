@@ -23,7 +23,6 @@
 |--|--|--|
 | Bambu Labs | P1S | |
 | Creality | Ender 3 Pro | Klipper | 
-| Creality | Ender 3 Pro | Stock |
 
 <!--
 **BobbyPelletier/BobbyPelletier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
