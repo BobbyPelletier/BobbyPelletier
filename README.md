@@ -1,3 +1,6 @@
+Building a centralized location to document my homelab
+
+
 # Computers
 | Device | Host Name | OS Disk | Data Disk | CPU | RAM | OS Version | NIC | Notes |
 |--|--|--|--|--|--|--|--|--|
